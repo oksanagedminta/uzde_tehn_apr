@@ -1,2 +1,28 @@
-# Zemniekam ir govis, cûkas un vistas. Govîm un cûkâm ir pa 4 kâjâm, vistâm – 2. Izveidot programmu, kas prasa lietotâjam ievadît cûku, govju un vistu skaitu. Tiek aprçíinâts kopçjais kâju daudzums. Rezultâts tiek izvadîts konsolç.
+# Zemniekam ir govis, cï¿½kas un vistas. 
+# Govï¿½m un cï¿½kï¿½m ir pa 4 kï¿½jï¿½m, vistï¿½m ï¿½ 2. 
+# Izveidot programmu, kas prasa lietotï¿½jam ievadï¿½t cï¿½ku, govju un vistu skaitu. 
+# Tiek aprï¿½ï¿½inï¿½ts kopï¿½jais kï¿½ju daudzums. Rezultï¿½ts tiek izvadï¿½ts konsolï¿½.
+
+
+#  OK OK OK OK 
+x=int(input("Govju skaits: "))
+y=int(input("CÅ«ku skaits: "))
+z=int(input("Vistu skaits: "))
+print((x*4)+(y*4)+(z*2))
+print("KopÄ“jais kÄju skaits ir: ", (x*4)+(y*4)+(z*2))
+
+
+
+
+
+
+
+
+
+
+govis=int(input("Govis ir: "))
+cukas=int(input("CÅ«kas ir: "))
+vista=int(input("Vistas ir: "))
+print("Amaunt of legs: ", govis*4 + cukas*4 + vista*2)
+
 
