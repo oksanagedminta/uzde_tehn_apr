@@ -23,3 +23,5 @@ print(z, "+", zz, "+", zzz, "=", z+zz+zzz)  #ne polu4aetsa pos4itatj = a tak ok:
 print((z)+zz+zzz)
 #sumz=(z+zz+zzz)
 #print(z, "+", z+z, "+", z+z+z, "=", sumz)
+
+#git?
